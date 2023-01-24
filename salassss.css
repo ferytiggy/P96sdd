@@ -1,0 +1,28 @@
+img {
+    top: 0;
+    text-align: left;
+    border-radius: 150px;
+   }
+.h{
+    text-align: center;
+    font-family: ;
+}
+body{
+    background-color: orangered;
+}
+div{
+    background-color: white;
+    text-align: center;
+}
+input {
+    border-radius: 70px;
+    background-color: lightgreen;
+    }
+    button {
+        border-radius: 50px;
+        background-color: lightgreen;
+    }
+    #h1{
+    top: 0;
+    text-align: rigth;
+    }

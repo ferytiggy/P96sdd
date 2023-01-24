@@ -1,0 +1,27 @@
+#id {
+    bottom: 0px;
+    position: fixed;
+}
+.input {
+    width: 1300px;
+    border-radius: 54654px;
+    background-color: orangered;
+}
+#enviarmensaje {
+    width: 30px;
+    height: 30px;
+    border: 654;
+}
+#mensaje2{
+    border-radius: 30px;
+}
+body{
+    background-color: orangered;
+}
+#hola{
+    background-color: orangered;
+}
+.di{
+    background-color: orangered;
+    border-radius: 645px;
+}

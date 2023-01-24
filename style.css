@@ -1,0 +1,29 @@
+img {
+ top: 0;
+ text-align: left;
+ border-radius: 150px;
+}
+
+body {
+    background-color: orangered;
+}
+
+div {
+    background-color: white;
+    text-align: center;
+    border-radius: 7000px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+input {
+border-radius: 70px;
+background-color: lightgreen;
+}
+button {
+    border-radius: 50px;
+    background-color: lightgreen;
+}
